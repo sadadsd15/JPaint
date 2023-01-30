@@ -1,5 +1,5 @@
 # JPaint
-Application name: JPaint 
+Application name: JPaint
 Developed on: 30.01.2023
 Developed by: Student or Researcher
 
